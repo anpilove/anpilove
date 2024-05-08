@@ -15,9 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- ⚡ Fun fact: I love DS and unravel the hidden stories behind data!
+
+
+
+
+
+
+
+
 ## Github Stats  
 <div><img src="https://github-readme-stats.vercel.app/api?username=anpilove&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"/></div>
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anpilove&langs_count=10&hide_border=true&theme=tokyonight" alt="Top Languages" /></a>
+<!-- <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anpilove&langs_count=10&hide_border=true&theme=tokyonight" alt="Top Languages" /></a> -->
 
 ## Top Skills & Tools
 ![Python](https://img.shields.io/badge/Python-%2320232a.svg?style=flat-square&logo=Python)
